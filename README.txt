@@ -1,6 +1,6 @@
 README
 
-by Miriam Střihavková (GitHub.
+by Miriam Střihavková (GitHub: https://github.com/miastrihavkova)
 
 content: simple movie database RESTful API using Flask
 requirements: python3, Docker
